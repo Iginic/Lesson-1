@@ -14,5 +14,5 @@ print('Начальное множество',my_set)
 my_set.add(111)
 my_set.add('ROMA')
 print(my_set.discard(45))
-print(my_set)
+print('Изененное множество',my_set)
 
